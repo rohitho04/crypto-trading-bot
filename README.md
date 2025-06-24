@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Crypto Trading Bot – Binance Futures Testnet
 
 A simplified crypto trading bot using the Binance Testnet API.
@@ -16,3 +17,7 @@ A simplified crypto trading bot using the Binance Testnet API.
 
 ## License
 MIT
+=======
+# crypto-trading-bot
+A simple Binance Testnet trading bot
+>>>>>>> 75c6959f241f74c8e7ed02909cb7ab5708978849
